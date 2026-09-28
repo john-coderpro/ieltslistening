@@ -1,0 +1,385 @@
+{
+  "id": "cambridge-18-test-1",
+  "book": 18,
+  "test": 1,
+  "title": "Cambridge IELTS 18 — Listening Test 1",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 18 GT L[@cambridge_library].pdf",
+    "pdfPages": [
+      9,
+      14
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-18/test-1/page-01.jpg",
+    "questions/cambridge-18/test-1/page-02.jpg",
+    "questions/cambridge-18/test-1/page-03.jpg",
+    "questions/cambridge-18/test-1/page-04.jpg",
+    "questions/cambridge-18/test-1/page-05.jpg",
+    "questions/cambridge-18/test-1/page-06.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "C 18 section1-part1[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section1-part1[@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "C 18 section1-part2[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section1-part2[@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "C 18 section1-part3[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section1-part3[@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "C 18 section1-part4[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section1-part4[@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "DW30 7YZ",
+        "DW307YZ"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "24 April",
+        "24th April"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "dentist"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "parking"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "Claxby"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "late"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "evening"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "supermarket"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "pollution"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "storage"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "group": "g2"
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "group": "g2"
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "group": "g3"
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "group": "g3"
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "fences"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "family"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "helicopters"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "stress"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "sides"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "breathing"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "feet"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "employment"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "weapons"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "tourism"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        14,
+        15
+      ],
+      "answers": [
+        "B",
+        "E"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        27,
+        28
+      ],
+      "answers": [
+        "B",
+        "E"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g3",
+      "questions": [
+        29,
+        30
+      ],
+      "answers": [
+        "A",
+        "C"
+      ],
+      "order": "any"
+    }
+  ]
+}

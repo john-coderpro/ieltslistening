@@ -1,0 +1,386 @@
+{
+  "id": "cambridge-18-test-2",
+  "book": 18,
+  "test": 2,
+  "title": "Cambridge IELTS 18 — Listening Test 2",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 18 GT L[@cambridge_library].pdf",
+    "pdfPages": [
+      31,
+      37
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-18/test-2/page-01.jpg",
+    "questions/cambridge-18/test-2/page-02.jpg",
+    "questions/cambridge-18/test-2/page-03.jpg",
+    "questions/cambridge-18/test-2/page-04.jpg",
+    "questions/cambridge-18/test-2/page-05.jpg",
+    "questions/cambridge-18/test-2/page-06.jpg",
+    "questions/cambridge-18/test-2/page-07.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "C 18 section2-part1[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section2-part1[@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "C 18 section2-part2[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section2-part2[@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "C 18 section2- part3 [@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section2- part3 [@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "C 18 section2- part4[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section2- part4[@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "training"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "discount"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "taxi"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "service"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "English"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "Wivenhoe"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "equipment"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "9.75"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "deliveries"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "Sunday"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "accepted": [
+        "H"
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "group": "g3"
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "group": "g3"
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "convenient"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "suits"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "tailor"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "profession"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "visible"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "string",
+        "strings"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "waist",
+        "waists"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "perfume"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "image"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "handbag"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        11,
+        12
+      ],
+      "answers": [
+        "B",
+        "E"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        13,
+        14
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g3",
+      "questions": [
+        25,
+        26
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "order": "any"
+    }
+  ]
+}

@@ -1,0 +1,393 @@
+{
+  "id": "cambridge-18-test-3",
+  "book": 18,
+  "test": 3,
+  "title": "Cambridge IELTS 18 — Listening Test 3",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 18 GT L[@cambridge_library].pdf",
+    "pdfPages": [
+      54,
+      59
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-18/test-3/page-01.jpg",
+    "questions/cambridge-18/test-3/page-02.jpg",
+    "questions/cambridge-18/test-3/page-03.jpg",
+    "questions/cambridge-18/test-3/page-04.jpg",
+    "questions/cambridge-18/test-3/page-05.jpg",
+    "questions/cambridge-18/test-3/page-06.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "C 18 section3 part1 [@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section3 part1 [@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "C 18 section3 part2[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section3 part2[@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "C 18 section3 part3[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section3 part3[@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "C 18 section3 part4[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section3 part4[@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "Marrowfield"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "relative"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "socialise",
+        "socialize"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "full"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "Domestic Life"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "clouds"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "timing"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "Animal Magic"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "movement",
+        "animal movement"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "dark"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "group": "g3"
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "group": "g3"
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "group": "g4"
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "group": "g4"
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "E"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "technical"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "cheap"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "thousands"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "identification"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "tracking"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "military"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "location"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "prediction"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "database"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "trust"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        11,
+        12
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        13,
+        14
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g3",
+      "questions": [
+        21,
+        22
+      ],
+      "answers": [
+        "A",
+        "E"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g4",
+      "questions": [
+        23,
+        24
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "order": "any"
+    }
+  ]
+}

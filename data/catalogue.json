@@ -1,0 +1,112 @@
+{
+  "tests": [
+    {
+      "id": "cambridge-17-test-1",
+      "book": 17,
+      "test": 1,
+      "title": "Cambridge IELTS 17 — Test 1",
+      "href": "test.html?book=17&test=1",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-17-test-2",
+      "book": 17,
+      "test": 2,
+      "title": "Cambridge IELTS 17 — Test 2",
+      "href": "test.html?book=17&test=2",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-17-test-3",
+      "book": 17,
+      "test": 3,
+      "title": "Cambridge IELTS 17 — Test 3",
+      "href": "test.html?book=17&test=3",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-17-test-4",
+      "book": 17,
+      "test": 4,
+      "title": "Cambridge IELTS 17 — Test 4",
+      "href": "test.html?book=17&test=4",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-18-test-1",
+      "book": 18,
+      "test": 1,
+      "title": "Cambridge IELTS 18 — Test 1",
+      "href": "test.html?book=18&test=1",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-18-test-2",
+      "book": 18,
+      "test": 2,
+      "title": "Cambridge IELTS 18 — Test 2",
+      "href": "test.html?book=18&test=2",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-18-test-3",
+      "book": 18,
+      "test": 3,
+      "title": "Cambridge IELTS 18 — Test 3",
+      "href": "test.html?book=18&test=3",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-18-test-4",
+      "book": 18,
+      "test": 4,
+      "title": "Cambridge IELTS 18 — Test 4",
+      "href": "test.html?book=18&test=4",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-19-test-1",
+      "book": 19,
+      "test": 1,
+      "title": "Cambridge IELTS 19 — Test 1",
+      "href": "test.html?book=19&test=1",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-19-test-2",
+      "book": 19,
+      "test": 2,
+      "title": "Cambridge IELTS 19 — Test 2",
+      "href": "test.html?book=19&test=2",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-19-test-3",
+      "book": 19,
+      "test": 3,
+      "title": "Cambridge IELTS 19 — Test 3",
+      "href": "test.html?book=19&test=3",
+      "questions": 40,
+      "parts": 4
+    },
+    {
+      "id": "cambridge-19-test-4",
+      "book": 19,
+      "test": 4,
+      "title": "Cambridge IELTS 19 — Test 4",
+      "href": "test.html?book=19&test=4",
+      "questions": 40,
+      "parts": 4
+    }
+  ]
+}

@@ -1,0 +1,380 @@
+{
+  "id": "cambridge-19-test-2",
+  "book": 19,
+  "test": 2,
+  "title": "Cambridge IELTS 19 — Listening Test 2",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 19 Academic l[@cambridge_library].pdf",
+    "pdfPages": [
+      34,
+      40
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-19/test-2/page-01.jpg",
+    "questions/cambridge-19/test-2/page-02.jpg",
+    "questions/cambridge-19/test-2/page-03.jpg",
+    "questions/cambridge-19/test-2/page-04.jpg",
+    "questions/cambridge-19/test-2/page-05.jpg",
+    "questions/cambridge-19/test-2/page-06.jpg",
+    "questions/cambridge-19/test-2/page-07.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "T2 P1 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T2 P1 [@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "T2 P2 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T2 P2 [@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "T2 P3 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T2 P3 [@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "T2 P4 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T2 P4 [@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "Mathieson"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "beginners"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "college"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "New"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "11",
+        "eleven",
+        "11 am",
+        "11am",
+        "eleven am"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "instrument"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "ear"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "clapping"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "recording"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "alone"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "E"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "move"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "short"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "discs"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "oxygen"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "tube"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "temperatures"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "protein"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "space"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "seaweed"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "endangered"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        17,
+        18
+      ],
+      "answers": [
+        "C",
+        "E"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        19,
+        20
+      ],
+      "answers": [
+        "A",
+        "B"
+      ],
+      "order": "any"
+    }
+  ]
+}

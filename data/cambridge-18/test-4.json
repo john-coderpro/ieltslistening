@@ -1,0 +1,368 @@
+{
+  "id": "cambridge-18-test-4",
+  "book": 18,
+  "test": 4,
+  "title": "Cambridge IELTS 18 — Listening Test 4",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 18 GT L[@cambridge_library].pdf",
+    "pdfPages": [
+      77,
+      82
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-18/test-4/page-01.jpg",
+    "questions/cambridge-18/test-4/page-02.jpg",
+    "questions/cambridge-18/test-4/page-03.jpg",
+    "questions/cambridge-18/test-4/page-04.jpg",
+    "questions/cambridge-18/test-4/page-05.jpg",
+    "questions/cambridge-18/test-4/page-06.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "C 18 section4 part1[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section4 part1[@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "C 18 section4 part2[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section4 part2[@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "C 18 section4 part3[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section4 part3[@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "C 18 section4 part4[@cambridge_library].mp3",
+      "path": "audio/cambridge-18/C 18 section4 part4[@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "receptionist"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "Medical"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "Chastons"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "appointments"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "database"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "experience"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "confident"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "temporary"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "1.15"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "parking"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "accepted": [
+        "E"
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "group": "g1"
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "group": "g1"
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "plot"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "poverty"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "Europe"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "poetry"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "drawings"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "furniture"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "lamps"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "harbour",
+        "harbor"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "children"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "relatives"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        21,
+        22
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "order": "any"
+    }
+  ]
+}

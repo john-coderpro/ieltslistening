@@ -1,0 +1,384 @@
+{
+  "id": "cambridge-19-test-3",
+  "book": 19,
+  "test": 3,
+  "title": "Cambridge IELTS 19 — Listening Test 3",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 19 Academic l[@cambridge_library].pdf",
+    "pdfPages": [
+      56,
+      62
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-19/test-3/page-01.jpg",
+    "questions/cambridge-19/test-3/page-02.jpg",
+    "questions/cambridge-19/test-3/page-03.jpg",
+    "questions/cambridge-19/test-3/page-04.jpg",
+    "questions/cambridge-19/test-3/page-05.jpg",
+    "questions/cambridge-19/test-3/page-06.jpg",
+    "questions/cambridge-19/test-3/page-07.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "T3 P1 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T3 P1 [@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "T3 P2 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T3 P2 [@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "T3 P3 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T3 P3 [@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "T3 P4 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T3 P4 [@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "harbour",
+        "harbor"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "bridge"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "3.30",
+        "3:30",
+        "three thirty",
+        "half three",
+        "half 3",
+        "3½",
+        "3 1/2"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "Rose"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "sign"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "purple"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "samphire"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "melon"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "coconut"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "strawberry"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "H"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "H"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "E"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "clothing"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "mouths"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "salt"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "toothpaste"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "fertilisers",
+        "fertilizers"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "nutrients"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "growth"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "weight"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "acid"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "society"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        17,
+        18
+      ],
+      "answers": [
+        "D",
+        "E"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        19,
+        20
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "order": "any"
+    }
+  ]
+}

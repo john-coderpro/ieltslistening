@@ -1,0 +1,369 @@
+{
+  "id": "cambridge-17-test-3",
+  "book": 17,
+  "test": 3,
+  "title": "Cambridge IELTS 17 — Listening Test 3",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 17 [cambridgematerials].pdf",
+    "pdfPages": [
+      47,
+      52
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-17/test-3/page-01.jpg",
+    "questions/cambridge-17/test-3/page-02.jpg",
+    "questions/cambridge-17/test-3/page-03.jpg",
+    "questions/cambridge-17/test-3/page-04.jpg",
+    "questions/cambridge-17/test-3/page-05.jpg",
+    "questions/cambridge-17/test-3/page-06.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "IELTS17_t3_audio1 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t3_audio1 [@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "IELTS17_t3_audio2 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t3_audio2 [@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "IELTS17_t3_audio3 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t3_audio3 [@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "IELTS17_t3_audio4 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t3_audio4 [@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "family"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "fit"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "hotels"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "Carrowniskey"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "week"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "bay"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "September"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "19",
+        "nineteen"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "30",
+        "thirty"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "boots"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "E"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "H"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "mud"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "feathers"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "shape"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "moon"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "neck"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "evidence"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "destinations"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "oceans"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "recovery"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "atlas"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        11,
+        12
+      ],
+      "answers": [
+        "B",
+        "E"
+      ],
+      "order": "any"
+    }
+  ]
+}

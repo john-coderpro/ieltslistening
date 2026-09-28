@@ -1,0 +1,378 @@
+{
+  "id": "cambridge-19-test-4",
+  "book": 19,
+  "test": 4,
+  "title": "Cambridge IELTS 19 — Listening Test 4",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 19 Academic l[@cambridge_library].pdf",
+    "pdfPages": [
+      79,
+      84
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-19/test-4/page-01.jpg",
+    "questions/cambridge-19/test-4/page-02.jpg",
+    "questions/cambridge-19/test-4/page-03.jpg",
+    "questions/cambridge-19/test-4/page-04.jpg",
+    "questions/cambridge-19/test-4/page-05.jpg",
+    "questions/cambridge-19/test-4/page-06.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "T4 P1 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T4 P1 [@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "T4 P2 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T4 P2 [@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "T4 P3 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T4 P3 [@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "T4 P4 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T4 P4 [@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "Kaeden"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "locker",
+        "lockers"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "passport"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "uniform"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "third",
+        "3rd"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "0412 665 903",
+        "0412665903"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "yellow"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "plastic"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "ice"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "gloves"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "competition"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "food"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "disease"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "agriculture"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "maps"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "cattle"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "speed"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "monkeys"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "fishing"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "flooding"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        11,
+        12
+      ],
+      "answers": [
+        "C",
+        "E"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        13,
+        14
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "order": "any"
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "id": "cambridge-19-test-1",
+  "book": 19,
+  "test": 1,
+  "title": "Cambridge IELTS 19 — Listening Test 1",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 19 Academic l[@cambridge_library].pdf",
+    "pdfPages": [
+      10,
+      15
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-19/test-1/page-01.jpg",
+    "questions/cambridge-19/test-1/page-02.jpg",
+    "questions/cambridge-19/test-1/page-03.jpg",
+    "questions/cambridge-19/test-1/page-04.jpg",
+    "questions/cambridge-19/test-1/page-05.jpg",
+    "questions/cambridge-19/test-1/page-06.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "T1 P1 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T1 P1 [@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "T1 P2 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T1 P2 [@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "T1 P3 [@cambridge_library].mp3.mp3",
+      "path": "audio/cambridge-19/T1 P3 [@cambridge_library].mp3.mp3"
+    },
+    {
+      "part": 4,
+      "filename": "T1 P4 [@cambridge_library].mp3",
+      "path": "audio/cambridge-19/T1 P4 [@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "69",
+        "sixty-nine",
+        "sixty nine"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "stream"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "data"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "map"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "visitors"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "sounds"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "freedom"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "skills"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "4.95"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "leaders"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "group": "g1"
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "group": "g1"
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "group": "g2"
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "group": "g2"
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "D"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "G"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "H"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "walls"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "son"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "fuel"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "oxygen"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "rectangular"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "lamps"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "family"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "winter"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "soil"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "rain"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        21,
+        22
+      ],
+      "answers": [
+        "B",
+        "D"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        23,
+        24
+      ],
+      "answers": [
+        "A",
+        "E"
+      ],
+      "order": "any"
+    }
+  ]
+}

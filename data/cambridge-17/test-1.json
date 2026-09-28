@@ -1,0 +1,385 @@
+{
+  "id": "cambridge-17-test-1",
+  "book": 17,
+  "test": 1,
+  "title": "Cambridge IELTS 17 — Listening Test 1",
+  "questionCount": 40,
+  "parts": [
+    {
+      "part": 1,
+      "questions": [
+        1,
+        10
+      ]
+    },
+    {
+      "part": 2,
+      "questions": [
+        11,
+        20
+      ]
+    },
+    {
+      "part": 3,
+      "questions": [
+        21,
+        30
+      ]
+    },
+    {
+      "part": 4,
+      "questions": [
+        31,
+        40
+      ]
+    }
+  ],
+  "source": {
+    "pdf": "Cambridge IELTS 17 [cambridgematerials].pdf",
+    "pdfPages": [
+      4,
+      9
+    ],
+    "questionPresentation": "full-page images rendered from the supplied Cambridge PDF"
+  },
+  "questionPages": [
+    "questions/cambridge-17/test-1/page-01.jpg",
+    "questions/cambridge-17/test-1/page-02.jpg",
+    "questions/cambridge-17/test-1/page-03.jpg",
+    "questions/cambridge-17/test-1/page-04.jpg",
+    "questions/cambridge-17/test-1/page-05.jpg",
+    "questions/cambridge-17/test-1/page-06.jpg"
+  ],
+  "audio": [
+    {
+      "part": 1,
+      "filename": "IELTS17_t1_audio1 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t1_audio1 [@cambridge_library].mp3"
+    },
+    {
+      "part": 2,
+      "filename": "IELTS17_t1_audio2 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t1_audio2 [@cambridge_library].mp3"
+    },
+    {
+      "part": 3,
+      "filename": "IELTS17_t1_audio3 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t1_audio3 [@cambridge_library].mp3"
+    },
+    {
+      "part": 4,
+      "filename": "IELTS17_t1_audio4 [@cambridge_library].mp3",
+      "path": "audio/cambridge-17/IELTS17_t1_audio4 [@cambridge_library].mp3"
+    }
+  ],
+  "questions": [
+    {
+      "number": 1,
+      "part": 1,
+      "accepted": [
+        "litter"
+      ]
+    },
+    {
+      "number": 2,
+      "part": 1,
+      "accepted": [
+        "dogs"
+      ]
+    },
+    {
+      "number": 3,
+      "part": 1,
+      "accepted": [
+        "insects"
+      ]
+    },
+    {
+      "number": 4,
+      "part": 1,
+      "accepted": [
+        "butterflies"
+      ]
+    },
+    {
+      "number": 5,
+      "part": 1,
+      "accepted": [
+        "wall"
+      ]
+    },
+    {
+      "number": 6,
+      "part": 1,
+      "accepted": [
+        "island"
+      ]
+    },
+    {
+      "number": 7,
+      "part": 1,
+      "accepted": [
+        "boots"
+      ]
+    },
+    {
+      "number": 8,
+      "part": 1,
+      "accepted": [
+        "beginners"
+      ]
+    },
+    {
+      "number": 9,
+      "part": 1,
+      "accepted": [
+        "spoons"
+      ]
+    },
+    {
+      "number": 10,
+      "part": 1,
+      "accepted": [
+        "35",
+        "thirty five",
+        "thirty-five"
+      ]
+    },
+    {
+      "number": 11,
+      "part": 2,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 12,
+      "part": 2,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 13,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 14,
+      "part": 2,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 15,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 16,
+      "part": 2,
+      "group": "g1"
+    },
+    {
+      "number": 17,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 18,
+      "part": 2,
+      "group": "g2"
+    },
+    {
+      "number": 19,
+      "part": 2,
+      "group": "g3"
+    },
+    {
+      "number": 20,
+      "part": 2,
+      "group": "g3"
+    },
+    {
+      "number": 21,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 22,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 23,
+      "part": 3,
+      "accepted": [
+        "B"
+      ]
+    },
+    {
+      "number": 24,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 25,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 26,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 27,
+      "part": 3,
+      "accepted": [
+        "A"
+      ]
+    },
+    {
+      "number": 28,
+      "part": 3,
+      "accepted": [
+        "E"
+      ]
+    },
+    {
+      "number": 29,
+      "part": 3,
+      "accepted": [
+        "F"
+      ]
+    },
+    {
+      "number": 30,
+      "part": 3,
+      "accepted": [
+        "C"
+      ]
+    },
+    {
+      "number": 31,
+      "part": 4,
+      "accepted": [
+        "puzzle"
+      ]
+    },
+    {
+      "number": 32,
+      "part": 4,
+      "accepted": [
+        "logic"
+      ]
+    },
+    {
+      "number": 33,
+      "part": 4,
+      "accepted": [
+        "confusion"
+      ]
+    },
+    {
+      "number": 34,
+      "part": 4,
+      "accepted": [
+        "meditation"
+      ]
+    },
+    {
+      "number": 35,
+      "part": 4,
+      "accepted": [
+        "stone"
+      ]
+    },
+    {
+      "number": 36,
+      "part": 4,
+      "accepted": [
+        "coins"
+      ]
+    },
+    {
+      "number": 37,
+      "part": 4,
+      "accepted": [
+        "tree"
+      ]
+    },
+    {
+      "number": 38,
+      "part": 4,
+      "accepted": [
+        "breathing"
+      ]
+    },
+    {
+      "number": 39,
+      "part": 4,
+      "accepted": [
+        "paper"
+      ]
+    },
+    {
+      "number": 40,
+      "part": 4,
+      "accepted": [
+        "anxiety"
+      ]
+    }
+  ],
+  "answerGroups": [
+    {
+      "id": "g1",
+      "questions": [
+        15,
+        16
+      ],
+      "answers": [
+        "A",
+        "D"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g2",
+      "questions": [
+        17,
+        18
+      ],
+      "answers": [
+        "B",
+        "C"
+      ],
+      "order": "any"
+    },
+    {
+      "id": "g3",
+      "questions": [
+        19,
+        20
+      ],
+      "answers": [
+        "D",
+        "E"
+      ],
+      "order": "any"
+    }
+  ]
+}
